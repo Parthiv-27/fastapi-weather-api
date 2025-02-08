@@ -36,6 +36,7 @@ Expected JSON response:
   "weather": "clear sky",
   "wind_speed": 9.26
 }
+```
 
 🛠️ Features
 ✅ Fetches real-time weather data
